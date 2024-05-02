@@ -6,7 +6,7 @@ Implmentation Guide for Health Data Space at Flanders
 ### Publication
 This ImplementationGuide is published in the following locations:
 
-Continuous Build: __[imec-int.github.io/hds-fhir/](https://imec-int.github.io/hds_fhir/)__  
+Continuous Build: __[imec-int.github.io/hds_fhir/](https://imec-int.github.io/hds_fhir/)__  
 <br> </br>
 
 ### Issues
