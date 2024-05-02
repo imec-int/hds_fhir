@@ -1,6 +1,6 @@
-Logical: ExampleModel
-Title: "ExampleModel"
-Description: "Example Model"
+Logical: HDS-Sample-Model
+Title: "HDS-Sample-Model"
+Description: "HDS Sample Model"
 Characteristics: #can-be-target
 
 * dateTimeReceived 1..1 TS "Timestamp received"
@@ -15,8 +15,7 @@ Characteristics: #can-be-target
   * street 0..1 ST20 "Street name"
   * houseNr 0..1 ST20 "House number"
   * postbox 0..1 ST20 "Post box"
-
-
+  * MeasureReport 0..* MeasureReport "MeasureReport"
 
 
 Profile: Class
