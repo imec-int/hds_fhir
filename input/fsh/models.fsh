@@ -15,7 +15,9 @@ Characteristics: #can-be-target
   * street 0..1 ST20 "Street name"
   * houseNr 0..1 ST20 "House number"
   * postbox 0..1 ST20 "Post box"
-  * MeasureReport 0..* MeasureReport "MeasureReport"
+ // Not correct way to link FHIR resource, from logic model to FHIR resource is missing in FHIR for now.
+ // * MeasureReport 0..* MeasureReport "MeasureReport"
+ 
 
 
 Profile: Class
