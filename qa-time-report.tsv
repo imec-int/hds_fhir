@@ -1,0 +1,6 @@
+Source File	Size	loadResources	load-configure	scan	loadDepInfo	loadInfo	load	generateSnapshots	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+/fsh-generated/resources/ImplementationGuide-my-ig.json	2670	-	0	0	0	0	0	0	5	61	0	0	0	0	0	0	0	1	0	0	94	50	0	0	0	2	0	1
+fsh-generated/resources/StructureDefinition-Class.json	636	15	0	0	1	0	0	29	0	35	0	0	0	0	0	0	0	0	0	0	60	825	0	0	0	2	0	0
+fsh-generated/resources/StructureDefinition-HDS-Sample-Model.json	6347	14	0	0	0	0	0	48	0	20	0	0	0	0	0	0	0	0	0	0	157	427	0	0	0	4	0	0
+fsh-generated/resources/StructureDefinition-ST20.json	577	18	0	0	0	0	0	21	0	7	0	0	0	0	0	0	0	1	0	0	39	152	0	0	0	1	0	0
+fsh-generated/resources/StructureDefinition-TS.json	690	14	0	0	0	0	0	20	0	8	0	0	0	0	0	0	0	0	0	0	34	102	0	0	0	2	0	0
